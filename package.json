@@ -1,0 +1,29 @@
+{
+  "name": "app-env-loader",
+  "version": "1.0.0",
+  "description": "A webpack loader to handle specific code base on different environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangzuizui/app-env-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "env",
+    "environment",
+    "loader",
+    "specific"
+  ],
+  "author": "huangzuizui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huangzuizui/app-env-loader/issues"
+  },
+  "homepage": "https://github.com/huangzuizui/app-env-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
